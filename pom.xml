@@ -9,7 +9,6 @@
 	<name>Simple webapp</name>
 	<description>The bare minimum for a functional webapp.</description>
 	<url>https://github.com/mkspcd/MavenArchetypes</url>
-
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 		<dependency>
